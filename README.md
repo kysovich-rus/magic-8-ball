@@ -1,6 +1,24 @@
-# Magic 8-ball
-Magic ball that has already answered all of your questions
+# Волшебный шар
+Этот шарик уже знает ответ на ваш вопрос. Осталось только его задать...
 
-Command to launch app (Ruby interpreter required):
+## Демонстрация
 
-`ruby magicball.rb`
+![Демонстрация](https://user-images.githubusercontent.com/70809854/194652550-23aea031-f9c3-4485-826c-55c2e7ebdfe2.gif)
+
+
+## Требования
+
+`ОС`: Любая
+
+`Ruby`: 2.5+
+
+## Запуск
+
+1. Загрузить исходники программы на локальный диск.
+2. В директории программы ввести консольную команду:
+
+  ```
+  ruby magicball.rb
+  ```
+  
+  
